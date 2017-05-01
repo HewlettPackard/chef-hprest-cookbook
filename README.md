@@ -1,5 +1,5 @@
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/HewlettPackard/chef-hprest-cookbook)
-[![Chef cookbook](https://img.shields.io/cookbook/v/chef-sugar.svg)](https://supermarket.chef.io/cookbooks/hprest)
+[![Chef cookbook](https://img.shields.io/cookbook/v/hprest.svg)](https://supermarket.chef.io/cookbooks/hprest)
 
 # Hprest Cookbook
 
