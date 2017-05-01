@@ -1,3 +1,5 @@
+[![Chef cookbook](https://img.shields.io/cookbook/v/chef-sugar.svg)](https://supermarket.chef.io/cookbooks/hprest)
+
 # Hprest Cookbook
 
 #### Table of Contents
